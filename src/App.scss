@@ -1,0 +1,8 @@
+@import './styles/variables.scss';
+
+body {
+    // background-color: $black;
+    background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url('./assets/mac_black.jpg') fixed;
+    color: $white;
+}

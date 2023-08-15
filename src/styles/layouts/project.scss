@@ -1,0 +1,43 @@
+.project-section {
+
+
+    .cards-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+
+        margin-top: 6rem;
+
+
+
+        .card-project {
+            // border: 2px solid black;
+            width: 30%;
+            padding: 1rem;
+            border-radius: .8rem;
+
+            * {
+                margin: 1rem;
+            }
+
+            p {
+                color: #65656d;
+            }
+
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+        }
+
+        .card-project:hover {
+            background-color: #ffffff1c;
+            opacity: 1;
+            visibility: visible;
+            transition: background-color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+        }
+
+    }
+
+    margin-bottom: 10rem;
+}

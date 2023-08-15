@@ -1,0 +1,55 @@
+.projects-page {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin-top: 5rem;
+
+    .first-info-section {
+        display: flex;
+        justify-content: space-between;
+
+
+        .left-info {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            * {
+                width: 70%;
+            }
+
+            h1 {
+                font-size: 3rem;
+            }
+
+            p {
+                color: #a9a9a9;
+                // margin-top: 2rem;
+                text-align: justify;
+                font-size: 1.1rem;
+            }
+
+            .icons-info {
+                display: flex;
+                width: 40%;
+                margin-top: 2rem;
+
+                a {
+                    text-decoration: none;
+                }
+
+                i {
+                    // border: 2px solid black;
+                    display: flex;
+                    justify-content: center;
+                    font-size: 2.5rem;
+                    color: #65656d;
+                    transition: transform 0.3s ease-in-out;
+                }
+
+                i:hover {
+                    transform: scale(1.2);
+                }
+            }
+        }
+    }
+}
