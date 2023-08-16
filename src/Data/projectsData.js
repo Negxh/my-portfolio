@@ -21,7 +21,7 @@ export const projectsArray = [
         id: 4,
         name: 'Ficha Medica',
         description: 'Programa para anotar ficha medica de pacientes en un hospital. Desarrollado en C++, ocupando POO y estructura de datos',  
-        link: '#'
+        link: 'https://github.com/Negxh/Ficha-Medica'
     }
     
 ]
