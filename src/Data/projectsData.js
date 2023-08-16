@@ -15,7 +15,7 @@ export const projectsArray = [
         id: 3,
         name: 'Banco',
         description: 'Simulacion de Banco Transaccional. Desarrollado en C++ y ocupando Programacion Orientada a Objetos',
-        link: '#'
+        link: 'https://github.com/Negxh/Banco'
     },
     {
         id: 4,
