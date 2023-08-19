@@ -3,7 +3,7 @@ export const projectsArray = [
         id: 1,
         name: 'HomeGarden Pro',
         description: 'Proyecto TIC para monitoreo de plantas. Desarrollado en Arduino y con su respectiva web.',
-        link: '#'
+        link: 'https://github.com/Negxh/TicRepository'
     },
     {
         id: 2,
